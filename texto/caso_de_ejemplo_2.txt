@@ -1,0 +1,11 @@
+Agente: Buenas tardes, bienvenido a Atención al Cliente. ¿Cómo puedo ayudarle?
+Cliente: Estoy muy molesto, su servicio es horrible.
+Agente: Lamento escuchar eso. ¿Podría darme más detalles sobre su problema?
+Cliente: La conexión es pésima y el soporte técnico es inútil. No resuelven nada.
+Agente: Comprendo su frustración. Vamos a revisar su caso para intentar resolverlo.
+Cliente: No creo que puedan hacerlo. Siempre prometen y no cumplen.
+Agente: Haremos lo mejor posible. ¿Hay algo más que quiera añadir?
+Cliente: Solo quiero cancelar mi servicio. Es una pérdida de dinero.
+Agente: Entiendo. Procederé con la solicitud de cancelación. Lamentamos su experiencia.
+Cliente: Espero que lo hagan rápido.
+Agente: Gracias por su tiempo. Le deseamos lo mejor.

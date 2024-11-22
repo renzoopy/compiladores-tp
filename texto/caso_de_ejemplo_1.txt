@@ -1,0 +1,9 @@
+Agente: Hola, bienvenido a Atención al Cliente. ¿Con quién tengo el gusto de hablar?
+Cliente: Buenas, mi nombre es Juan Pérez. 
+Agente: ¿En qué puedo ayudarle hoy?
+Cliente: Tengo un problema con mi factura, el monto es incorrecto.
+Agente: Vamos a revisar eso. Por favor, deme un momento. 
+Cliente: Gracias. 
+Agente: Ya revisé su caso. Todo está solucionado. ¿Puedo ayudarle en algo más? 
+Cliente: No, eso es todo. 
+Agente: Muchas gracias por su tiempo. Que tenga un buen día.

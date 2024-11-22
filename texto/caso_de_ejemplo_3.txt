@@ -1,0 +1,13 @@
+Agente: Buenas tardes, bienvenido a Atención al Cliente. ¿En qué puedo ayudarle?
+Cliente: Estoy harto de llamar y que nadie resuelva mi problema. Su servicio es un desastre, son todos ineficientes.
+Agente: Lamento mucho la situación. Vamos a revisar su caso.
+Cliente: Lo siento, no debí gritar. Solo que no resolver el problema es frustrante.
+Agente: Entiendo, pero debería ser más paciente.  
+Cliente: Lo sé, perdón. Necesito ayuda con una factura incorrecta.
+Agente: A ver si puedo hacer algo. Aunque con clientes tan complicados, no es fácil.
+Cliente: ¿Qué dijo?
+Agente: Nada. Vamos a resolver esto de una vez. No tengo todo el día.
+Cliente: Espero un trato más respetuoso.  
+Agente: Lo que usted diga. ¿Algo más?
+Cliente: No, gracias.
+Agente: Adiós.
